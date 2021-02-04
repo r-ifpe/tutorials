@@ -1,0 +1,30 @@
+---
+title: "README.rmd"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Olá, amigas e amigos. Vamos embarcar em um mundo de múltiplas possibilidades. Já pensou em por todas as suas ideias em prática? Todos temos ideias ótimas, ideias que podem melhorar o mundo, sua vida e a vida de outras pessoas. Pessoas que você nem conhece. É possível fazer tudo isso em casa com apenas um computador ou notebook criando suas próprias aplicações e contribuido com o mundo a sua maneira. 
+Não garanto que será fácil (e nem será), mas te garanto que será uma viagem só de ida em busca de conhecimento e quando você percerber as pessoas usando aquilo que você cria é impossível não se apaixonar. 
+Existem muitos iguais a você e a mim, somos muitos. Existe muita gente boa por aí a fora disposta a ajudar e contribuir. 
+
+Vocês pode tudo que você quiser. Me dê uma chance para te provar isso. Venha comigo.
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
